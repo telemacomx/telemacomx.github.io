@@ -1,2 +1,11 @@
-theme: jekyll-theme-minimal
-Tittle: Hola, carambolas, saludos a todas las perinolas.
+<html>
+
+<head>
+<title>Mi primer sitio web</title>
+</head>
+
+<body>
+<p>Hola, carambolas</p>
+</body>
+
+</html>
